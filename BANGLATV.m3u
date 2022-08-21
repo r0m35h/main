@@ -1,0 +1,32 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://i.ibb.co/MN1CMxr/BTV-World.jpg",BTV World 
+http://103.106.2.152:13456/btv_world.m3u8
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://i.ibb.co/FV2P0yZ/BTVChattagram.jpg",BTV Chattagram 
+http://103.106.2.152:13456/btv_ctg.m3u8
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://i.ibb.co/WP2Ms86/SomoyTV.jpg",Somoy TV
+http://iptvbd.jagobd.com:1931/live-orgin/somoyt000011226615544544.stream/chunks.m3u8
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://i.ibb.co/tC6c5SC/Independent-News.jpg",Independent TV
+http://iptvbd.jagobd.com:1931/live-orgin/independent-8-org.stream/chunks.m3u8
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://i.ibb.co/hXVR2JJ/Ekattortv.jpg",EKATTOR TV
+http://dangguli.live:8080/EkattorTV/index.m3u8
+
+
+
+#EXTINF:-1  group-title="Indian Bangla" tvg-logo="https://i.ibb.co/DMYBrzP/Star-Jalsha.jpg",Star Jalsa SD 01
+http://103.109.56.116/live/skyfeed1003/index.m3u8
+#EXTINF:-1  group-title="Indian Bangla" tvg-logo="https://i.ibb.co/F3qs1LY/Zee-Bangla.jpg",Zee Bangla SD 01
+http://103.109.56.116/live/skyfeed1004/index.m3u8
+
+#EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.ibb.co/F3qs1LY/Zee-Bangla.jpg",Zee Bangla HD
+http://dangguli.live:8080/ZeeBanglaHD/index.m3u8
+#EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.ibb.co/7n6hGcs/Starjalsha-HD.jpg",Star Jalsha HD
+http://dangguli.live:8080/StarJalshaHD/index.m3u8
+#EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.ibb.co/0GXTv7Q/Sonyath.jpg",Sony Aath
+http://dangguli.live:8080/SonyAath/index.m3u8
+#EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.ibb.co/wyzJZm6/Colorsbangla.jpg",Colors Bangla HD
+http://dangguli.live:8080/ColorsBanglaHD/index.m3u8
+#EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.ibb.co/72s91nF/Star-Jalsha-Movies.jpg",STAR JALSHA MOVIES HD
+http://jupiter.bdcabletv.com/jalshamuvie-enc/video.m3u8
+#EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.ibb.co/pjrbj9H/Zee-Bangla-Cinema.jpg",Zee Bangla Cinema
+http://dangguli.live:8080/ZeeBanglaCinema/index.m3u8
