@@ -165,11 +165,11 @@ https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/playlist.m3u8
 http://190.83.119.67:8000/play/a0pb/index.m3u8
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://i.ibb.co/0nM6VqB/Disney-jr.jpg",Disney JR
 http://103.179.246.243:8000/play/a020
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://",Aniplus
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://i.ibb.co/h2vsdFg/aniplus.png",Aniplus
 http://45.126.83.51/session/a8b65e18-2313-11ed-aad6-914a83ee331e/dr9445/h/h02/index.m3u8
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://i.ibb.co/qx8QHCQ/Animax.jpg",Animax Asia (Vietnamese Subs)
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://i.ibb.co/qx8QHCQ/Animax.jpg",Animax Asia
 https://livecdn.fptplay.net/hda3/animaxport_hls.smil/playlist.m3u8
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://i.ibb.co/c6MxKX9/BabyTV.jpg",Baby TV Asia (Vietnamese dub) (1080p)
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://i.ibb.co/c6MxKX9/BabyTV.jpg",Baby TV Asia
 https://livecdn.fptplay.net/hda3/babytvhd_vhls.smil/chunklist.m3u8
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://i.ibb.co/WDFJFPB/Discovery-kids.jpg",Discovery Kids Hindi 
 http://103.179.246.243:8000/play/a024
@@ -191,7 +191,7 @@ http://103.179.246.243:8000/play/a017
 #EXTINF:-1 group-title="Movies" tvg-logo="https://i.ibb.co/z70Ybsx/prive.jpg",&PRIVE HD
 http://103.179.246.243:8000/play/a01d
 #EXTINF:-1 group-title="Movies" tvg-logo="https://i.ibb.co/3WjKV4L/flix.jpg",&flix HD
-http://103.179.246.243:8000/play/a00p
+http://jupiter.bdcabletv.com/AndFlixHD/video.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="https://i.ibb.co/P5GtXnS/Sonymax.jpg",Sony Max UK
 http://familyplus.me:8080/live/younes123/123456/72072.ts
 #EXTINF:-1 group-title="Movies" tvg-logo="https://i.ibb.co/P5GtXnS/Sonymax.jpg",Sony Max HD
@@ -242,11 +242,11 @@ http://144.217.70.181:9587/hin2/UTVMOVIESHD/tracks-v1a1/mono.m3u8
 http://208.86.19.13:81/728.stream/index.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="https://i.ibb.co/LRf5ZMY/HBO.jpg", HBO Asia
 https://livecdn.fptplay.net/hda1/hbo_hls.smil/chunklist.m3u8
-#EXTINF:-1 group-title="Movies" tvg-logo="https://i.ibb.co/LRf5ZMY/HBO.jpg", HBO 1
+#EXTINF:-1 group-title="Movies" tvg-logo="https://i.ibb.co/DW4SzvT/Hbo1.png", HBO 1
 http://familyplus.me:8080/live/younes123/123456/59130.ts
-#EXTINF:-1 group-title="Movies" tvg-logo="https://i.ibb.co/LRf5ZMY/HBO.jpg", HBO 2
+#EXTINF:-1 group-title="Movies" tvg-logo="https://i.ibb.co/HDtmV1j/Hbo2.png", HBO 2
 http://familyplus.me:8080/live/younes123/123456/59117.ts
-#EXTINF:-1 group-title="Movies" tvg-logo="https://i.ibb.co/LRf5ZMY/HBO.jpg", HBO 3
+#EXTINF:-1 group-title="Movies" tvg-logo="https://i.ibb.co/bN3V1Pw/Hbo3.png", HBO 3
 http://familyplus.me:8080/live/younes123/123456/196803.ts
 #EXTINF:-1 group-title="Movies" tvg-logo="https://i.ibb.co/Gx563L1/Thrill.jpg",Thrill 
 http://210.210.155.37/qwr9ew/s/s34/index.m3u8
