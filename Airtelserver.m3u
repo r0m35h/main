@@ -1,5 +1,4 @@
 #EXTM3U
-
 #EXTINF:-1 group-title="Hindi Entertainment" tvg-logo="https://i.ibb.co/r5b5hzK/Starworldp.jpg",STAR PREMIER HD
 http://103.179.246.243:8000/play/a00a
 #EXTINF:-1 group-title="Hindi Entertainment" tvg-logo="https://i.ibb.co/W6YXTvD/Starworld-HD.jpg",STAR WORLD HD
@@ -36,6 +35,8 @@ http://103.179.246.243:8000/play/a00s
 http://103.179.246.243:8000/play/a00t
 #EXTINF:-1 group-title="Movies" tvg-logo="https://i.ibb.co/cw992Yr/mnxhd.png",MN+ HD
 http://103.179.246.243:8000/play/a00u
+#EXTINF:-1 group-title="Movies" tvg-logo="https://i.ibb.co/bN0V0LF/Star-Movies-HD.jpg",Star Movies HD
+http://103.179.246.243:8000/play/a00v
 #EXTINF:-1 group-title="Movies" tvg-logo="https://i.ibb.co/YbzVPb2/Star-Movies-Sl-HD.jpg",STAR MOVIE SELECT HD
 http://103.179.246.243:8000/play/a00w
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://i.ibb.co/JCPZnpV/NGC.jpg",NATIONAL GEOGRAPHY HD
@@ -48,7 +49,7 @@ http://103.179.246.243:8000/play/a00z
 http://103.179.246.243:8000/play/a01a
 #EXTINF:-1 group-title="Movies" tvg-logo="https://i.ibb.co/zV0dmhV/Colors-Infinity.jpg",COLORS INFINITY HD
 http://103.179.246.243:8000/play/a01b
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://i.ibb.co/QkN6sc2/Nick.jpg",NICK
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://i.ibb.co/tBZs9QJ/NickHd.jpg",NICK HD+
 http://103.179.246.243:8000/play/a01c
 #EXTINF:-1 group-title="Movies" tvg-logo="https://i.ibb.co/z70Ybsx/prive.jpg",&PRIVE HD
 http://103.179.246.243:8000/play/a01d
@@ -90,7 +91,7 @@ EXTINF:-1 group-title="KIDS" tvg-logo="https://i.ibb.co/ynLw15T/hungamatv.png",H
 http://103.179.246.243:8000/play/a01x
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://i.ibb.co/c6yVfB8/Disney-channel.jpg",DISNEY CHANNEL TAMIL
 http://103.179.246.243:8000/play/a01y
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://i.ibb.co/QkN6sc2/Nick.jpg",NICK CLOUD
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://i.ibb.co/QkN6sc2/Nick.jpg",NICK
 http://103.179.246.243:8000/play/a01z
 #EXTINF:-1 group-title="Hindi Entertainment" tvg-logo="https://i.ibb.co/PN8tTpN/Star-Bharat.jpg",STAR BHARAT HD
 http://103.179.246.243:8000/play/a010
@@ -130,8 +131,6 @@ http://103.179.246.243:8000/play/a026
 http://103.179.246.243:8000/play/a027
 #EXTINF:-1 group-title="Hindi Entertainment" tvg-logo="https://i.ibb.co/HxTNTKL/Sonypal.jpg",SONY PAL
 http://103.179.246.243:8000/play/a036
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co/",SPORTS
-http://103.179.246.243:8000/play/a064
 #EXTINF:-1 group-title="Hindi Entertainment" tvg-logo="https://i.ibb.co/rd0QmH7/colorsrishtey.png",COLORS RISHTEY
 http://103.179.246.243:8000/play/a03i
 #EXTINF:-1 group-title="Movies" tvg-logo="https://i.ibb.co/GWxVrBL/Colorscineplex.jpg",COLORS CINEPLEX
@@ -140,5 +139,7 @@ http://103.179.246.243:8000/play/a04h
 http://103.179.246.243:8000/play/a05m
 #EXTINF:-1 , group-title="Music" tvg-logo="https://i.ibb.co/cxpX4Dg/MTV.jpg",MTV HD
 http://103.179.246.243:8000/play/a05q
-
-
+#EXTINF:-1 , group-title="Music" tvg-logo="https://i.ibb.co/pzZFwmF/Bindass.jpg",BINDAAS
+http://103.179.246.243:8000/play/a063
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co/0jtkxws/1sports.jpg",1SPORTS
+http://103.179.246.243:8000/play/a064
