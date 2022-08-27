@@ -13,7 +13,7 @@ http://iptvbd.jagobd.com:1931/live-orgin/banglav000.stream/chunks.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.ibb.co/3k5Wsjx/Atnbangla.jpg",ATN BANGLA
 http://iptvbd.jagobd.com:1931/live-orgin/atnbd-8-org.stream/chunks.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.ibb.co/RCjF89k/Atnnews.jpg",ATN News
-http://tv.univisionlive.net:25461/live/Digi667457/Digi667457/1300.m3u8
+http://jupiter.bdcabletv.com/ATNNews-IRD/video.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.ibb.co/ySHY0Qz/Atnmusic.jpg",ATN MUSIC
 http://tv.univisionlive.net:25461/live/Digi667457/Digi667457/1341.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.ibb.co/ZS5nzZc/NTV.jpg",NTV
@@ -25,7 +25,7 @@ http://familyplus.me:8080/live/younes123/123456/216742.ts
 EXTINF:-1 ,#EXTINF:-1 group-title="Bangla" tvg-logo="https://i.ibb.co/xDhmRwt/Alpona.jpg",ALPONA TV
 https://tempskyview.jagobd.com:441/live-orgin/alponatv.stream/chunks.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.ibb.co/t3f3cvq/Deeptotv.jpg",Deepto TV
-http://tv.univisionlive.net:25461/live/Digi667457/Digi667457/2659.m3u8
+http://jupiter.bdcabletv.com/DeeptoTV-IRD/video.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.ibb.co/GWZ3sXg/Duranta-TV.jpg",Duranta TV
 http://starshare.live:8080/live/usman007/usman007/433.ts
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.ibb.co/bB566DJ/Boishakhi-TV.jpg",Boishakhi TV
@@ -48,7 +48,7 @@ https://bd.jagobd.com:444/live-orgin/channeli-8-org.stream/chunks.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.ibb.co/28DBQc7/Maasranga-TV.jpg",Maasranga TV
 http://iptv.kitv.live:1935/live/maasrangalive/HODMTV/1.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.ibb.co/QHsHcJy/NAGORIKTV.jpg",Nagorik TV
-http://tv.univisionlive.net:25461/live/Digi667457/Digi667457/1298.m3u8
+http://stream.amrbd.com:8082/Nagorik-TV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.ibb.co/QKRcZn8/GaziTV.jpg",GAZI TV
 https://tv.kotha.im/GTV_HD/index.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.ibb.co/QKRcZn8/GaziTV.jpg",GAZI TV HD
