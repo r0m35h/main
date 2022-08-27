@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="Hindi Entertainment" tvg-logo="https://i.ibb.co/r5b5hzK/Starworldp.jpg",STAR PREMIER HD
+#EXTINF:-1 group-title="Hindi Entertainment" tvg-logo="https://i.ibb.co/r5b5hzK/Starworldp.jpg",STAR WORLD PREMIER HD
 http://103.179.246.243:8000/play/a00a
 #EXTINF:-1 group-title="Hindi Entertainment" tvg-logo="https://i.ibb.co/W6YXTvD/Starworld-HD.jpg",STAR WORLD HD
 http://103.179.246.243:8000/play/a00b
@@ -21,9 +21,11 @@ http://103.179.246.243:8000/play/a00k
 http://103.179.246.243:8000/play/a00l
 #EXTINF:-1 group-title="Hindi Entertainment" tvg-logo="https://i.ibb.co/CMqfZL1/Starplus.jpg",STAR PLUS HD
 http://103.179.246.243:8000/play/a00m
-#EXTINF:-1 group-title="Movies" tvg-logo="https://i.ibb.co/GWxVrBL/Colorscineplex.jpg",COLORS CINEPLEX
+#EXTINF:-1 group-title="Movies" tvg-logo="https://i.ibb.co/wBBrRjQ/ZeeTVHD.jpg",ZEE TV
 http://103.179.246.243:8000/play/a00n
-#EXTINF:-1 group-title="Movies" tvg-logo="https://i.ibb.co/GWxVrBL/Colorscineplex.jpg",COLORS CINEPLEX
+#EXTINF:-1 group-title="Hindi Entertainment" tvg-logo="https://i.ibb.co/mJrwgx1/ColorsHD.jpg",Colors HD
+http://103.179.246.243:8000/play/a00o
+#EXTINF:-1 group-title="Movies" tvg-logo="https://i.ibb.co/GWxVrBL/Colorscineplex.jpg",&FLIX
 http://103.179.246.243:8000/play/a00p
 #EXTINF:-1 group-title="Hindi Entertainment" tvg-logo="https://i.ibb.co/0XrY7xQ/SonySet.jpg",SONY ENTERTAINMENT
 http://103.179.246.243:8000/play/a00q
@@ -87,7 +89,7 @@ http://103.179.246.243:8000/play/a01u
 http://103.179.246.243:8000/play/a01v
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://i.ibb.co/gF18nDx/CN.jpg",CARTOON NETWORK
 http://103.179.246.243:8000/play/a01w
-EXTINF:-1 group-title="KIDS" tvg-logo="https://i.ibb.co/ynLw15T/hungamatv.png",HUNGAMA TV
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://i.ibb.co/ynLw15T/hungamatv.png",Hungama TV
 http://103.179.246.243:8000/play/a01x
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://i.ibb.co/c6yVfB8/Disney-channel.jpg",DISNEY CHANNEL TAMIL
 http://103.179.246.243:8000/play/a01y
@@ -123,7 +125,7 @@ http://103.179.246.243:8000/play/a022
 http://103.179.246.243:8000/play/a023
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://i.ibb.co/WDFJFPB/Discovery-kids.jpg",DISCOVERY KIDS
 http://103.179.246.243:8000/play/a024
-#EXTINF:-1 group-title="Movies" tvg-logo="https://i.ibb.co/GWxVrBL/Colorscineplex.jpg",COLORS CINEPLEX
+#EXTINF:-1 group-title="Movies" tvg-logo="https://i.ibb.co/GWxVrBL/Colorscineplex.jpg",Zoom
 http://103.179.246.243:8000/play/a025
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co/JmBrgQj/Starsports1.jpg",STAR SPORTS 1 HD
 http://103.179.246.243:8000/play/a026
