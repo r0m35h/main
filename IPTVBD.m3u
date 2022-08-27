@@ -261,7 +261,7 @@ http://rtmp.smartstream.video:1935/mhonemusic/mhonemusic/playlist.m3u8
 http://144.217.70.181:9587/hin2/MTVINDIA/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-1 group-title="Music" tvg-logo="https://i.ibb.co/f160kHY/MTVBeats.jpg",MTV BEATS HD
 http://144.217.70.181:9587/hin2/MTVBEATSHD/index.m3u8?token=test
-#EXTINF:-1 ,#EXTINF:-1 , group-title="Music" tvg-logo="https://",HUNGAMA DIL SE
+#EXTINF:-1 ,#EXTINF:-1 , group-title="Music" tvg-logo="https://i.ibb.co/FBCvr4k/Bollyhungama.png",HUNGAMA DIL SE
 https://live.hungama.com/linear/dil-se/playlist.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="https://i.ibb.co/fD3hGYV/mtvyo.jpg",MTV YO! HD
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
@@ -273,7 +273,7 @@ http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS07/master.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="https://i.ibb.co/hxGkK4p/cmtmusic.jpg",CMT MUSIC HD
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/master.m3u8
-#EXTINF:-1 group-title="Music" tvg-logo="https://",Boogle Bollywood
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.ibb.co/hXjTT6q/Booglebolly.jpg",Boogle Bollywood
 http://live.agmediachandigarh.com/booglebollywood/774e3ea9f3fa9bcdac47f445b83b6653.sdp/index.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="https://i.ibb.co/8cCX4Wq/B4umusic.jpg",B4U Music
 http://144.217.70.181:9587/hin2/B4UMUSIC/tracks-v1a1/mono.m3u8?token=test
