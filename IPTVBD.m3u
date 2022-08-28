@@ -88,7 +88,7 @@ http://45.125.221.114:1935/live/megnatv/chunklist.m3u8
 http://iptvbd.jagobd.com:1931/live-orgin/moviebanglalink2.stream/playlist.m3u8
 #EXTINF:-1 group-title="JagoBD" tvg-logo="https://i.ibb.co/WHvBY9R/Iontv.jpg",ION TV
 http://tempx.jagobd.com:1932/live-orgin/boulive.stream/chunks.m3u8
-#EXTINF:-1 group-title="Bangla" tvg-logo="https://imgur.com/wMH3tLM.png",VOICE TV
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://i.ibb.co/bFnLf9k/VoiceTV.jpg",VOICE TV
 https://tempskyview.jagobd.com:441/live-orgin/voicetv.stream/chunks.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.ibb.co/0GFKVR5/Timetv.jpg",TIME TV
 http://jupiter.bdcabletv.com/timetv/video.m3u8
