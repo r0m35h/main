@@ -167,11 +167,11 @@ http://103.179.246.243:8000/play/a01w
 http://jupiter.bdcabletv.com/C-N/video.m3u8
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://i.ibb.co/gF18nDx/CN.jpg",Cartoon Network
 http://iptv.prosto.tv:7000/ch207/video.m3u8
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://i.ibb.co/g6n8KNh/Pogo.jpg",Pogo SD
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://i.ibb.co/g6n8KNh/Pogo.jpg",Pogo
 http://103.179.246.243:8000/play/a022
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://i.ibb.co/9rw45Zs/Spacetoon.jpg",Spacetoon
 https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/playlist.m3u8
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://i.ibb.co/0nM6VqB/Disney-jr.jpg",Disney JR¹
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://i.ibb.co/0nM6VqB/Disney-jr.jpg",Disney JR
 http://190.83.119.67:8000/play/a0pb/index.m3u8
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://i.ibb.co/0nM6VqB/Disney-jr.jpg",Disney JR
 http://103.179.246.243:8000/play/a020
@@ -202,14 +202,16 @@ http://103.179.246.243:8000/play/a017
 http://103.179.246.243:8000/play/a01d
 #EXTINF:-1 group-title="Movies" tvg-logo="https://i.ibb.co/3WjKV4L/flix.jpg",&flix HD
 http://jupiter.bdcabletv.com/AndFlixHD/video.m3u8
+#EXTINF:-1 group-title="Movies" tvg-logo="https://i.ibb.co/P5GtXnS/Sonymax.jpg",Sony Max
+http://221.120.204.4/SONY-MAX-LOCKLE/index.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="https://i.ibb.co/P5GtXnS/Sonymax.jpg",Sony Max UK
 http://familyplus.me:8080/live/younes123/123456/72072.ts
-#EXTINF:-1 group-title="Movies" tvg-logo="https://i.ibb.co/P5GtXnS/Sonymax.jpg",Sony Max HD
-http://221.120.204.4/SONY-MAX-LOCKLE/index.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="https://i.ibb.co/5TWJPXF/Zee-Anmol-Cunema.jpg",ZEE ANMOL CINEMA
 http://144.217.70.181:9587/hin2/ZEEANMOLCINEMA/tracks-v1a1/mono.m3u8?token=test
-#EXTINF:-1 group-title="Movies" tvg-logo="https://i.ibb.co/sthCWgw/Zee-Cinema-HD.jpg",ZEE CINEMA HD
+#EXTINF:-1 group-title="Movies" tvg-logo="https://i.ibb.co/sthCWgw/Zee-Cinema-HD.jpg",ZEE CINEMA
 http://144.217.70.181:9587/hin2/ZEECINEMAHD/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 group-title="Movies" tvg-logo="https://i.ibb.co/sthCWgw/Zee-Cinema-HD.jpg",ZEE CINEMA UK
+http://144.217.70.181:9587/hin2/ZEECINEMAUK/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-1 group-title="Movies" tvg-logo="https://i.ibb.co/f8HcWcz/Zee-Classic.jpg",ZEE CLASSIC
 http://144.217.70.181:9587/hin2/ZEECLASSICHD/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-1 group-title="Movies" tvg-logo="https://i.ibb.co/rMBjvkp/zeebollywood.png",Zee Bollywood
@@ -218,25 +220,25 @@ http://103.179.246.243:8000/play/a01r
 http://103.179.246.243:8000/play/a04h
 #EXTINF:-1 group-title="Movies" tvg-logo="https://i.ibb.co/1QYbTb5/Utsavgold.jpg",Utsav Gold
 http://208.115.215.42/Utsav_Gold_HD/index.m3u8
-#EXTINF:-1 group-title="Movies" tvg-logo="https://i.ibb.co/FK8G21f/Star-Gold-HD.jpg",STAR GOLD HD
+#EXTINF:-1 group-title="Movies" tvg-logo="https://i.ibb.co/FK8G21f/Star-Gold-HD.jpg",STARGOLD
 http://103.179.246.243:8000/play/a012
-#EXTINF:-1 group-title="Movies" tvg-logo="https://i.ibb.co/FK8G21f/Star-Gold-HD.jpg",STAR GOLD HD Uk
+#EXTINF:-1 group-title="Movies" tvg-logo="https://i.ibb.co/FK8G21f/Star-Gold-HD.jpg",STARGOLD Uk
 http://144.217.70.181:9587/hin2/STARGOLDUK/tracks-v1a1/mono.m3u8?token=test
-#EXTINF:-1 group-title="Movies" tvg-logo="https://i.ibb.co/9YM3SDn/Star-Gold2.jpg",Star Gold 2
+#EXTINF:-1 group-title="Movies" tvg-logo="https://i.ibb.co/9YM3SDn/Star-Gold2.jpg",StarGold 2
 http://103.179.246.243:8000/play/a01q
-#EXTINF:-1 group-title="Movies" tvg-logo="https://i.ibb.co/vB5TQMg/Star-Gold-Select.jpg",Star Gold Select HD
+#EXTINF:-1 group-title="Movies" tvg-logo="https://i.ibb.co/vB5TQMg/Star-Gold-Select.jpg",StarGold Select
 http://103.179.246.243:8000/play/a014
-#EXTINF:-1 group-title="Movies" tvg-logo="https://i.ibb.co/nwtLFNM/Sonypix.jpg",Sony Pix
-http://103.179.246.243:8000/play/a016
-#EXTINF:-1 group-title="Movies" tvg-logo="https://i.ibb.co/bN0V0LF/Star-Movies-HD.jpg",Star Movies HD
+#EXTINF:-1 group-title="Movies" tvg-logo="https://i.ibb.co/5Gkg8SB/Star-Usav-M.jpg",StarUtsav Movies
+http://103.174.5.42:8000/play/a077/index.m3u8
+#EXTINF:-1 group-title="Movies" tvg-logo="https://i.ibb.co/bN0V0LF/Star-Movies-HD.jpg",Star Movies
 http://103.179.246.243:8000/play/a00v
-#EXTINF:-1 group-title="Movies" tvg-logo="https://i.ibb.co/YbzVPb2/Star-Movies-Sl-HD.jpg",Star Movies Select HD
+#EXTINF:-1 group-title="Movies" tvg-logo="https://i.ibb.co/YbzVPb2/Star-Movies-Sl-HD.jpg",StarMovies Select
 http://103.179.246.243:8000/play/a00w
 #EXTINF:-1 group-title="Movies" tvg-logo="https://i.ibb.co/MV0w5PS/B4uKadak.jpg",B4U Kadak
 http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8
 #EXTINF:-1 group-title="Movies"tvg-logo="https://i.ibb.co/dGtNR7S/B4umovies.jpg",B4U MOVIES
 http://144.217.70.181:9587/hin2/B4UMOVIES/tracks-v1a1/mono.m3u8?token=test
-#EXTINF:-1 group-title="Movies" tvg-logo="https://i.ibb.co/nf8SRtG/Dhinchaak.jpg", Dhinchak HD
+#EXTINF:-1 group-title="Movies" tvg-logo="https://i.ibb.co/ZJ5zG0q/Dhinchaak2.jpg", Dhinchak 2
 http://14.199.164.20:4001/play/a0o5/index.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="https://i.ibb.co/zV0dmhV/Colors-Infinity.jpg",Colors Infinity
 http://221.120.204.4/COLOURS-INFINITY-LOCKLE/tracks-v1a1/mono.m3u8
@@ -244,8 +246,6 @@ http://221.120.204.4/COLOURS-INFINITY-LOCKLE/tracks-v1a1/mono.m3u8
 http://103.179.246.243:8000/play/a01p
 #EXTINF:-1 group-title="Movies" tvg-logo="https://i.ibb.co/tBHbtXr/Utvmovies.jpg",UTV MOVIES
 http://103.179.246.243:8000/play/a01o
-#EXTINF:-1 group-title="Movies" tvg-logo="https://i.ibb.co/S65YKh1/Utvmoviesint.jpg",UTV MOVIES INT
-http://103.127.92.38:81/play/utvmovies
 #EXTINF:-1 group-title="Movies" tvg-logo="https://i.ibb.co/ftyPjGR/UtvHD.jpg",UTV HD
 http://144.217.70.181:9587/hin2/UTVMOVIESHD/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-1 group-title="Movies" tvg-logo="https://i.ibb.co/pRz58Wk/Zee-Action.jpg",ZEE ACTION
@@ -260,6 +260,8 @@ http://familyplus.me:8080/live/younes123/123456/59117.ts
 http://familyplus.me:8080/live/younes123/123456/196803.ts
 #EXTINF:-1 group-title="Movies" tvg-logo="https://i.ibb.co/Gx563L1/Thrill.jpg",Thrill 
 http://210.210.155.37/qwr9ew/s/s34/index.m3u8
+#EXTINF:-1 group-title="Movies" tvg-logo="https://i.ibb.co/nwtLFNM/Sonypix.jpg",Sony Pix
+http://103.179.246.243:8000/play/a016
 #EXTINF:-1 group-title="Movies" tvg-logo="https://i.ibb.co/nwtLFNM/Sonypix.jpg",Sony Pix HD
 http://jupiter.bdcabletv.com/SonyPix-Enc/video.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="https://i.ibb.co/kyTW51q/Movies-Now.jpg",Movies Now
