@@ -1,4 +1,14 @@
 #EXTM3U
+#EXTINF:-1 group-title="Movie Live" tvg-logo="https://i.ibb.co/V3bC3DH/BDC.jpg",Hindi Movie
+http://tv.bdcabletv.com:8080/ch1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Movie Live" tvg-logo="https://i.ibb.co/V3bC3DH/BDC.jpg",Hindi Movie
+http://tv.bdcabletv.com:8080/ch2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Movie Live" tvg-logo="https://i.ibb.co/V3bC3DH/BDC.jpg",BANGLA MOVIE
+http://tv.bdcabletv.com:8080/bch1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Movie Live" tvg-logo="https://i.ibb.co/V3bC3DH/BDC.jpg",JAMES BOND SERIES 
+http://tv.bdcabletv.com:8080/JamesBond/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Movie Live" tvg-logo="https://i.ibb.co/V3bC3DH/BDC.jpg",Mirzapur Series
+http://tv.bdcabletv.com:8080/Mirzapur/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.ibb.co/5nk3TkT/BTV.jpg",BTV 
 http://103.106.2.152:13456/btv.m3u8
