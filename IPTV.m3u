@@ -246,6 +246,8 @@ http://familyplus.me:8080/live/younes123/123456/59117.ts
 http://familyplus.me:8080/live/younes123/123456/196803.ts
 #EXTINF:-1 group-title="Movies" tvg-logo="https://i.ibb.co/Gx563L1/Thrill.jpg",Thrill 
 http://210.210.155.37/qwr9ew/s/s34/index.m3u8
+#EXTINF:-1 group-title="Movies" tvg-logo="https://i.ibb.co/", BBC AMERICA
+https://bcovlive-a.akamaihd.net/8e64fad5ddbe4d3e95b23b0f9c062f03/us-east-1/6240731308001/playlist.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="https://i.ibb.co/nwtLFNM/Sonypix.jpg",Sony Pix HD
 http://jupiter.bdcabletv.com/SonyPix-Enc/video.m3u8
 
