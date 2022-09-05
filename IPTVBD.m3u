@@ -252,7 +252,7 @@ http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8
 #EXTINF:-1 group-title="Movies"tvg-logo="https://i.ibb.co/dGtNR7S/B4umovies.jpg",B4U MOVIES
 http://144.217.70.181:9587/hin2/B4UMOVIES/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-1 group-title="Movies" tvg-logo="https://i.ibb.co/ZJ5zG0q/Dhinchaak2.jpg", Dhinchak 2
-http://14.199.164.20:4001/play/a0o5/index.m3u8
+http://103.55.144.46/hls/dhin.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="https://i.ibb.co/zV0dmhV/Colors-Infinity.jpg",Colors Infinity
 http://221.120.204.4/COLOURS-INFINITY-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="https://i.ibb.co/pd53HvV/Utvaction.jpg", UTV ACTION
