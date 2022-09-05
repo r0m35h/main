@@ -40,13 +40,13 @@ https://tempskyview.jagobd.com:441/live-orgin/alponatv.stream/chunks.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.ibb.co/t3f3cvq/Deeptotv.jpg",Deepto TV
 http://jupiter.bdcabletv.com/DeeptoTV-IRD/video.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.ibb.co/GWZ3sXg/Duranta-TV.jpg",Duranta TV
-http://starshare.live:8080/live/usman007/usman007/433.ts
+http://103.55.144.46/hls/duranta.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.ibb.co/bB566DJ/Boishakhi-TV.jpg",Boishakhi TV
 http://iptvbd.jagobd.com:1931/live-orgin/boishakhitv-org.stream/chunks.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.ibb.co/PYM9xt8/BijiyTV.jpg",Bijoy TV
 http://jupiter.bdcabletv.com/Bijoy-TV-IRD/video.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.ibb.co/6WYQTZy/Anandatv.jpg",Ananda TV
-http://stream.amrbd.com:8082/anandotv/tracks-v1a1/mono.m3u8
+http://jupiter.bdcabletv.com/AnandaTV-IRD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.ibb.co/ZY121dN/MyTV.jpg",MY TV
 http://stream.amrbd.com:8082/MyTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.ibb.co/PT15hhT/mohonaTv.jpg",Mohona TV
@@ -63,16 +63,12 @@ https://bd.jagobd.com:444/live-orgin/channeli-8-org.stream/chunks.m3u8
 http://iptv.kitv.live:1935/live/maasrangalive/HODMTV/1.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.ibb.co/QHsHcJy/NAGORIKTV.jpg",Nagorik TV
 http://jupiter.bdcabletv.com/Nagorik-TVHDIRD/video.m3u8
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://i.ibb.co/QKRcZn8/GaziTV.jpg",GAZI TV
+http://103.55.144.46/hls/Gazi-TV.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.ibb.co/QKRcZn8/GaziTV.jpg",GAZI TV DHAKALIVE
 https://live.tvdhaka.com:30443/Channel-1/tracks-v1a1/chunks.m3u8
-#EXTINF:-1 group-title="Bangla" tvg-logo="https://i.ibb.co/QKRcZn8/GaziTV.jpg",GAZI TV
-http://10.16.100.207:8088/sports/GazItv_hd.m3u8
-#EXTINF:-1 group-title="Bangla" tvg-logo="https://i.ibb.co/QKRcZn8/GaziTV.jpg",GAZI TV
-http://10.16.100.245/hindi/gazitv@r1ptv.m3u8
-#EXTINF:-1 group-title="Bangla" tvg-logo="https://i.ibb.co/QKRcZn8/GaziTV.jpg",GAZI TV
-http://10.16.100.203:8082/bangla/gtv_sports.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.ibb.co/QKRcZn8/GaziTV.jpg",GAZI TV BDC
-http://jupiter.bdcabletv.com/Gazi-T-V/video.m3u8
+http://jupiter.bdcabletv.com/Gazi-Tv/video.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co/HV1s3dL/Tsports.png",TSports 
 http://stream.amrbd.com:8082/T-Sports/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co/HV1s3dL/Tsports.png",TSports
@@ -102,7 +98,7 @@ http://iptvbd.jagobd.com:1931/live-orgin/atnislamictv.stream/chunks.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.ibb.co/0BK0M3J/Deshitv.jpg",Deshi TV
 http://208.86.19.13:81/514.stream/index.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.ibb.co/hXVR2JJ/Ekattortv.jpg",EKATTOR TV
-http://tv.univisionlive.net:25461/live/Digi667457/Digi667457/3113.m3u8
+http://jupiter.bdcabletv.com/EkattorHD-IRD/video.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.ibb.co/FXFZMvB/MeghnaTV.jpg",MEGHNA TV
 http://45.125.221.114:1935/live/megnatv/chunklist.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.ibb.co/WBFpMc6/Moviebangla.jpg",Movie Bangla
