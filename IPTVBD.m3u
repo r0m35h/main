@@ -33,8 +33,6 @@ http://iptvbd.jagobd.com:1931/live-orgin/atnmusic.stream/playlist.m3u8
 http://208.86.19.13:81/652.stream/index.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.ibb.co/fdrDzv5/RTV.jpg",RTV
 http://iptvbd.jagobd.com:1931/live-orgin/rtv-sg.stream/chunks.m3u8
-#EXTINF:-1 group-title="Bangla" tvg-logo="https://i.ibb.co/CPvXpbn/RTVMusic.jpg",RTV MUSIC
-http://familyplus.me:8080/live/younes123/123456/216742.ts
 
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.ibb.co/t3f3cvq/Deeptotv.jpg",Deepto TV
 http://jupiter.bdcabletv.com/DeeptoTV-IRD/video.m3u8
