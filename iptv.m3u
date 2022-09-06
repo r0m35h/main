@@ -296,7 +296,7 @@ https://livecdn.fptplay.net/hda2/natgeohd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="Infotainment" tvg-logo="https://i.ibb.co/HXSZZ8n/WildHD.jpg",Wild HD
 http://103.162.136.235:4500/play/a01c/index.m3u8
 #EXTINF:-1 group-title="Infotainment" tvg-logo="https://i.ibb.co/JdTnC5d/Animal-Planet.jpg",Animal Planet HD
-http://103.179.246.243:8000/play/a011
+http://iptvworld.ml:2095/live/nSSs1m4A/fpN7XAz/136613.m3u8
 #EXTINF:-1 group-title="Infotainment" tvg-logo="https://i.ibb.co/pQkb7SW/NasaTV.jpg",NASA TV
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
 #EXTINF:-1 group-title="Infotainment" tvg-logo="https://i.ibb.co/chYLb3R/Love-Nature.jpg",Love nature
@@ -352,7 +352,7 @@ https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3
 #EXTINF:-1 group-title="News" tvg-logo="https://i.ibb.co/j5XdpyQ/cnn.jpg",CNN INTERNATIONAL
 http://jupiter.bdcabletv.com/CNN_ENC/video.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://i.ibb.co/8MV9FLf/BBC-WORLDNews.jpg",BBC World
-http://103.179.246.243:8000/play/a01f
+http://iptvworld.ml:2095/live/nSSs1m4A/fpN7XAz/254246.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://i.ibb.co/LCkHbdd/DWHd.jpg",DW (akamai)
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream03/streamPlaylist.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://i.ibb.co/JRgB1M8/nhkworldjapan.jpg",NHK World (akamai)
