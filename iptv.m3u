@@ -1,5 +1,9 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.ibb.co/F3qs1LY/Zee-Bangla.jpg",ZeeBangla HD
+http://familyplus.me:8080/live/younes123/123456/216751.ts
+#EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.ibb.co/7n6hGcs/Starjalsha-HD.jpg",StarJalsha HD
+http://10.16.100.211/sports/stajalshaa.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.ibb.co/5nk3TkT/BTV.jpg",BTV 
 http://103.106.2.152:13456/btv.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.ibb.co/MN1CMxr/BTV-World.jpg",BTV World 
@@ -94,10 +98,7 @@ http://iptvbd.jagobd.com:1931/live-orgin/moviebanglalink2.stream/playlist.m3u8
 https://tempskyview.jagobd.com:441/live-orgin/voicetv.stream/chunks.m3u8
 
 
-#EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.ibb.co/F3qs1LY/Zee-Bangla.jpg",ZeeBangla HD
-http://familyplus.me:8080/live/younes123/123456/216751.ts
-#EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.ibb.co/7n6hGcs/Starjalsha-HD.jpg",StarJalsha HD
-http://10.16.100.211/sports/stajalshaa.m3u8
+
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.ibb.co/0GXTv7Q/Sonyath.jpg",Sony Aath
 http://familyplus.me:8080/live/younes123/123456/216747.ts
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.ibb.co/GPmStLJ/Akashath.jpg", Akash Ath
