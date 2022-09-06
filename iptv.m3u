@@ -97,9 +97,9 @@ http://jupiter.bdcabletv.com/timetv/video.m3u8
 
 
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.ibb.co/F3qs1LY/Zee-Bangla.jpg",ZeeBangla HD
-http://jupiter.bdcabletv.com/Zee_Bangla_HD/video.m3u8
+http://familyplus.me:8080/live/younes123/123456/216751.ts
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.ibb.co/7n6hGcs/Starjalsha-HD.jpg",StarJalsha HD
-http://jupiter.bdcabletv.com/Jalsha-Star/video.m3u8
+http://10.16.100.211/sports/stajalshaa.m3u8
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.ibb.co/0GXTv7Q/Sonyath.jpg",Sony Aath
 http://jupiter.bdcabletv.com/Sony_A_ath/video.m3u8
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.ibb.co/GPmStLJ/Akashath.jpg", Akash Ath
