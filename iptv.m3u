@@ -1,9 +1,9 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.ibb.co/F3qs1LY/Zee-Bangla.jpg",ZeeBangla HD
+#EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.ibb.co/F3qs1LY/Zee-Bangla.jpg",ZeeBangla
 http://familyplus.me:8080/live/younes123/123456/216751.ts
-#EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.ibb.co/7n6hGcs/Starjalsha-HD.jpg",StarJalsha HD
-http://10.16.100.211/sports/stajalshaa.m3u8
+#EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.ibb.co/7n6hGcs/Starjalsha-HD.jpg",StarJalsha
+http://familyplus.me:8080/live/younes123/123456/216748.ts
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.ibb.co/5nk3TkT/BTV.jpg",BTV 
 http://103.106.2.152:13456/btv.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.ibb.co/MN1CMxr/BTV-World.jpg",BTV World 
@@ -98,7 +98,10 @@ http://iptvbd.jagobd.com:1931/live-orgin/moviebanglalink2.stream/playlist.m3u8
 https://tempskyview.jagobd.com:441/live-orgin/voicetv.stream/chunks.m3u8
 
 
-
+#EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.ibb.co/F3qs1LY/Zee-Bangla.jpg",ZeeBangla HD
+http://jupiter.bdcabletv.com/Zee_Bangla_HD/video.m3u8
+#EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.ibb.co/7n6hGcs/Starjalsha-HD.jpg",StarJalsha HD
+http://jupiter.bdcabletv.com/Jalsha-Star/video.m3u8
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.ibb.co/0GXTv7Q/Sonyath.jpg",Sony Aath
 http://familyplus.me:8080/live/younes123/123456/216747.ts
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.ibb.co/GPmStLJ/Akashath.jpg", Akash Ath
@@ -106,7 +109,7 @@ http://103.55.144.46/hls/akash.m3u8
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.ibb.co/wyzJZm6/Colorsbangla.jpg",Colors Bangla HD
 http://10.16.100.211/sports/colorsbanglaaa.m3u8
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.ibb.co/72s91nF/Star-Jalsha-Movies.jpg",Jalsha Movies
-http://familyplus.me:8080/live/younes123/123456/216748.ts
+http://jupiter.bdcabletv.com/jalshamuvie-enc/video.m3u8
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.ibb.co/pjrbj9H/Zee-Bangla-Cinema.jpg",Zee Bangla Cinema
 http://familyplus.me:8080/live/younes123/123456/216752.ts
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.ibb.co/S6W9FnP/enterr10.jpg", Enterr 10
