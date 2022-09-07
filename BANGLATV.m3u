@@ -1,13 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="Bangla" tvg-logo="https://i.ibb.co/WP2Ms86/SomoyTV.jpg",Somoy TV
-http://iptvbd.jagobd.com:1931/live-orgin/somoyt000011226615544544.stream/chunks.m3u8
-#EXTINF:-1 group-title="Bangla" tvg-logo="https://i.ibb.co/tC6c5SC/Independent-News.jpg",Independent TV
-http://iptvbd.jagobd.com:1931/live-orgin/independent-8-org.stream/chunks.m3u8
-
-#EXTINF:-1  group-title="Indian Bangla" tvg-logo="https://i.ibb.co/DMYBrzP/Star-Jalsha.jpg",Star Jalsa SD 01
-http://103.109.56.116/live/skyfeed1003/index.m3u8
-#EXTINF:-1  group-title="Indian Bangla" tvg-logo="https://i.ibb.co/F3qs1LY/Zee-Bangla.jpg",Zee Bangla SD 01
-http://103.109.56.116/live/skyfeed1004/index.m3u8
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.ibb.co/F3qs1LY/Zee-Bangla.jpg",Zee Bangla HD
 http://jupiter.bdcabletv.com/Zee_Bangla_HD/video.m3u8
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.ibb.co/7n6hGcs/Starjalsha-HD.jpg",Star Jalsha HD
