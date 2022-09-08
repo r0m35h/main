@@ -54,7 +54,7 @@ https://bd.jagobd.com:444/live-orgin/channeli-8-org.stream/chunks.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.ibb.co/28DBQc7/Maasranga-TV.jpg",Maasranga TV
 http://iptv.kitv.live:1935/live/maasrangalive/HODMTV/1.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.ibb.co/QHsHcJy/NAGORIKTV.jpg",Nagorik TV
-http://jupiter.bdcabletv.com/Nagorik-TVHDIRD/video.m3u8
+http://172.20.2.1:8080/roarzone/59/tracks-v1a1/mono.m3u8?token=c407e98a3c25c94da54fdec2925de7e699a4b79b-3c178b0cffe0331d1e9660ba799e7729-1662616238-1662605438
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.ibb.co/QKRcZn8/GaziTV.jpg",GAZI TV
 http://89.187.185.89:3232/bd-gazi/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.ibb.co/QKRcZn8/GaziTV.jpg",GAZI TV DHAKALIVE
