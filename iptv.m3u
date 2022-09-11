@@ -1,5 +1,4 @@
 #EXTM3U
-
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.ibb.co/F3qs1LY/Zee-Bangla.jpg",ZeeBangla
 http://familyplus.me:8080/live/younes123/123456/216751.ts
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.ibb.co/7n6hGcs/Starjalsha-HD.jpg",StarJalsha
@@ -342,7 +341,6 @@ http://103.162.136.235:4500/play/a00w/index.m3u8
 http://116.204.149.11:8000/play/a00l/index.m3u8
 
 
-
 #EXTINF:-1 group-title="News" tvg-logo="https://i.ibb.co/M2z1Q5q/Aljazeera.jpg",Aljazeera
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://i.ibb.co/S5RQ9Rp/cbsnews.jpg",CBS News
@@ -361,4 +359,3 @@ https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream03/strea
 https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://i.ibb.co/vzVHMbd/Newsasia.jpg",Channel News Asia (Cloudfront)
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
-
