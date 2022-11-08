@@ -167,6 +167,8 @@ https://livecdn.fptplay.net/hda3/babytvhd_vhls.smil/chunklist.m3u8
 http://144.217.70.181:9587/hin2/SONIC/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://i.ibb.co/ynLw15T/hungamatv.png",Hungama TV
 http://144.217.70.181:9587/hin2/HUNGAMA/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 group-title="KIDS" tvg-logo="",Sony YaY
+https://tvs1.aynaott.com/SonyYay/tracks-v1a1/mono.m3u8
 
 
 
@@ -213,7 +215,7 @@ http://144.217.70.181:9587/hin2/UTVACTION/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-1 group-title="Movies" tvg-logo="https://i.ibb.co/ftyPjGR/UtvHD.jpg",UTV HD
 http://144.217.70.181:9587/hin2/UTVMOVIESHD/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-1 group-title="Movies" tvg-logo="https://i.ibb.co/pRz58Wk/Zee-Action.jpg",ZEE ACTION
-http://208.86.19.13:81/728.stream/index.m3u8
+http://144.217.70.181:9587/hin2/ZEEACTION/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-1 group-title="Movies" tvg-logo="https://i.ibb.co/Gx563L1/Thrill.jpg",Thrill 
 http://210.210.155.37/qwr9ew/s/s34/index.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="https://i.ibb.co/", BBC AMERICA
