@@ -289,18 +289,18 @@ http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co/M69t0Yq/Ten-Sports.jpg",Ten Sports
 http://stream.amrbd.com:8082/Ten-Sports/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co/HV1s3dL/Tsports.png",T Sports(Akashdth)
-http://103.168.91.228/hp-tv.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co/HV1s3dL/Tsports.png",T Sports
+http://175.41.46.16:8081/hls/4.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co/HV1s3dL/Tsports.png",T Sports BDC
 http://jupiter.bdcabletv.com/T-sport_s/video.m3u8
 #EXTINF:-1  group-title="Sports" tvg-logo="https://i.ibb.co/k4Bypxb/SonySix.jpg", Sony SIX HD
-http://jupiter.bdcabletv.com/SonySixHD/video.m3u8
+http://175.41.46.16:8081/hls/1.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co/7CTXHY4/Sonyten1.jpg",Sony Ten 1 HD
-http://jupiter.bdcabletv.com/ten_1-enc/video.m3u8
+http://175.41.46.16:8081/hls/3.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co/svnrSYk/Sonyten2.jpg",Sony Ten 2 HD
-http://jupiter.bdcabletv.com/ten_2-enc/video.m3u8
+http://175.41.46.16:8081/hls/5.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co/JmBrgQj/Starsports1.jpg",StarSports 1 HD
-http://103.162.136.235:4500/play/a015/index.m3u8
+http://175.41.46.16:8081/hls/6.m3u88
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co/pW7Ysyj/Star-Sports1-Hindi.jpg",StarSports 1 Hindi
 http://103.162.136.235:4500/play/a017/index.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co/ygYNTyX/Starsports2.jpg",StarSports 2 HD
@@ -308,7 +308,7 @@ http://103.162.136.235:4500/play/a016/index.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co/Zgrh4dT/Starsports3.jpg",StarSports 3HD
 http://103.162.136.235:4500/play/a013/index.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co/2v6g6f6/Starsportss1.jpg",Star Sports Select 1 HD
-http://103.162.136.235:4500/play/a00v/index.m3u8
+http://175.41.46.16:8081/hls/7.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co/dQxgRh9/Starsportss2.jpg",Star Sports Select 2 HD
 http://103.162.136.235:4500/play/a00w/index.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co/1zPQ1qM/Skysportscricket.jpg",SKY SPORTS CRICKET HD
