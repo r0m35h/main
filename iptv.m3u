@@ -265,7 +265,7 @@ http://42.200.67.163:8090/play/a0pd
 #EXTINF:-1 group-title="Infotainment" tvg-logo="https://i.ibb.co/s3qNpC4/History-tv18.jpg",History
 https://bk7l2w4nlx53-hls-live.5centscdn.com/HISTORY/961ac1c875f5884f31bdd177365ef1e3.sdp/chunks.m3u8
 #EXTINF:-1 group-title="Infotainment" tvg-logo="https://i.ibb.co/s3qNpC4/History-tv18.jpg",History Channel 18 HD
-https://tv.googledrivelinks.com/play.php?c=History_18_Hindi&q=800&e=.m3u8
+https://tv.googledrivelinks.com/play.php?c=History_18_Hindi
 #EXTINF:-1 group-title="Infotainment" tvg-logo="https://i.ibb.co/MMrL2D8/Sonybbcearth.jpg",Sony BBC Earth HD
 https://tv.googledrivelinks.com/play.php?c=Sony_BBC_Earth_HD&q=800&e=.m3u8
 #EXTINF:-1 group-title="Infotainment" tvg-logo="https://i.ibb.co/df0dnCg/Discovery-Hd.jpg",Discovery HD
