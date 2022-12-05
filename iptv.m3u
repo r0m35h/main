@@ -119,7 +119,7 @@ http://172.16.50.2:8082/colorsbangla/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.ibb.co/wyzJZm6/Colorsbangla.jpg",Colors Bangla HD
 https://tv.googledrivelinks.com/live.php?c=Colors_Bengali_HD&q=800&e=.m3u8
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.ibb.co/72s91nF/Star-Jalsha-Movies.jpg",Jalsha Movies
-https://tv.googledrivelinks.com/live.php?c=Jalsa_Movies_HD&q=800&e=.m3u8
+http://wayforward.xyz:25461/live/vod51545as/6G2Zasf0NYVS/198749.m3u8
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.ibb.co/pjrbj9H/Zee-Bangla-Cinema.jpg",Zee Bangla Cinema
 http://172.16.50.2:8082/ZeeBanglacinema/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.ibb.co/pjrbj9H/Zee-Bangla-Cinema.jpg",Zee Bangla Cinema
