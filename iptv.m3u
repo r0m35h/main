@@ -1,4 +1,16 @@
 #EXTM3U
+#EXTINF:-1 group-title="FIFA WORLD CUP 2022" tvg-logo="https://i.ibb.co/ckXtTpZ/Channel-Poster.gif",LIVE LINK 1
+http://172.16.50.2:8082/Live-Sports/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="FIFA WORLD CUP 2022" tvg-logo="https://i.ibb.co/ckXtTpZ/Channel-Poster.gif",LIVE LINK 2
+https://mprod-cdn.toffeelive.com/toffee/fifa-free/match-1/master_1000.m3u8
+#EXTINF:-1 group-title="FIFA WORLD CUP 2022" tvg-logo="https://i.ibb.co/ckXtTpZ/Channel-Poster.gif",LIVE LINK 3
+https://bl.uma.media/live/407384/HLS/6307840_7,4280320/2/1/playlist.m3u8
+#EXTINF:-1 group-title="FIFA WORLD CUP 2022" tvg-logo="https://i.ibb.co/ckXtTpZ/Channel-Poster.gif",LIVE LINK 4
+https://bl.uma.media/live/312119/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1 group-title="FIFA WORLD CUP 2022" tvg-logo="https://i.ibb.co/ckXtTpZ/Channel-Poster.gif",LIVE LINK 5
+https://d3awnlgqz0szay.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index_10.m3u8
+
+
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.ibb.co/F3qs1LY/Zee-Bangla.jpg",ZeeBangla HD
 http://172.16.50.2:8082/ZeeBanglaHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.ibb.co/7n6hGcs/Starjalsha-HD.jpg",StarJalsha HD
@@ -320,8 +332,8 @@ https://tv.googledrivelinks.com/live.php?c=Discovery_Science&q=800&e=.m3u8
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 
 
-
-
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co/MZHPdWb/sports18.jpg", SPORTS18
+http://172.16.50.2:8082/Live-Sports/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co/HV1s3dL/Tsports.png",T Sports
 http://172.16.50.2:8082/T-Sports/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co/M69t0Yq/Ten-Sports.jpg",Ten Sports
